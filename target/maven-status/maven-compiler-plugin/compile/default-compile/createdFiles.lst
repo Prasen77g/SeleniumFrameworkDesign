@@ -1,0 +1,8 @@
+PrasenjitDikshit\pageobjects\confirmationPage.class
+PrasenjitDikshit\pageobjects\OrderPage.class
+PrasenjitDikshit\pageobjects\ProductCatalouge.class
+PrasenjitDikshit\pageobjects\CartPage.class
+PrasenjitDikshit\pageobjects\checkOutPage.class
+PrasenjitDikshit\resources\ExtentReporterNG.class
+PrasenjitDikshit\pageobjects\LandingPage.class
+PrasenjitDikshit\AbstractComponents\AbstractComponents.class
